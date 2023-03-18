@@ -1,89 +1,92 @@
 body {
-  text-align: center;
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: bold;
-}
-
-#title {
-  color: #EE9333;
-  padding: 10px;
-  border-radius: 7px;
-  background-color: #4251503;
-  margin: 90px 0 10px 0;
-}
-
-#description {
-  color: #EE9333;
-  background-color: #4251503;
-  padding: 7px;
-  border-radius: 10px;
-  margin: 0 0 0 100px;
-}
-
-#main-page {
-  background-image: url("golestan.jpg");
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 10px 0 40px 0;
-}
-
-#second-part {
-  background-color: #251503;
-  background-size: cover;
-  color: #EE9333;
-  padding: 10px 0 0 0;
-}
-
-.golestan {
-  width: 170px;
-  height: 100px;
-  border: 1px solid;
-  border-radius: 50%;
-} 
-
-.tabiat {
-  width: 170px;
-  height: 100px;
-  border: 1px solid;
-  border-radius: 50%; 
-} 
-
-.bazar {
-  width: 170px;
-  height: 100px;
-  border: 1px solid;
-  border-radius: 50%;
-}
-
-#tourism-pics {
-  align-items: center;
-  padding: auto;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-}
-
-#pic-description {
-  padding: auto;
-  margin-top: -25px;
-  display: flex;
-  font-style: italic;
-  font-weight: normal;
-  flex-direction: row;
-  justify-content: space-around;
-}
-
-.hint-text {
-  padding: auto;
-  margin-top: -25px;
-  display: flex;
-  font-style: italic;
-  font-weight: normal;
-  flex-direction: row;
-  justify-content: space-around;
-}
+    text-align: center;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  
+  #title {
+    color: #EE9333;
+    padding: 10px;
+    border-radius: 7px;
+    background-color: #4251503;
+    margin: 90px 0 10px 0;
+  }
+  
+  #description {
+    color: #EE9333;
+    background-color: #4251503;
+    padding: 7px;
+    border-radius: 10px;
+    margin: 0 0 0 100px;
+  }
+  
+  #main-page {
+    background-image: url("golestan.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 0 40px 0;
+  }
+  
+  #second-part {
+    background-color: #251503;
+    background-size: cover;
+    color: #EE9333;
+    padding: 10px 0 0 0;
+  }
+  
+  .golestan {
+    width: 170px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 50%;
+  } 
+  
+  .tabiat {
+    width: 170px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 50%; 
+  } 
+  
+  .bazar {
+    width: 170px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 50%;
+  }
+  
+  #tourism-pics {
+    align-items: center;
+    padding: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  #pic-description {
+    padding: auto;
+    margin-top: -25px;
+    display: flex;
+    font-style: italic;
+    font-weight: normal;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  .hint-text {
+    padding: auto;
+    margin-top: -25px;
+    display: flex;
+    font-style: italic;
+    font-weight: normal;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .img-teh{
+    width: 30%;
+  }
